@@ -1,0 +1,21 @@
+{
+  "name": "ViktorF for Hexlet.io",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "My first project at Hexlet.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorFAlex/hexlet-js.git"
+  },
+  "author": "ViktorFAlex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorFAlex/hexlet-js/issues",
+    "email": "viktor.f.alex@gmail.com"
+  },
+  "homepage": "https://github.com/ViktorFAlex/hexlet-js#readme"
+}
