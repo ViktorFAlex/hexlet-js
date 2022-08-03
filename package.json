@@ -17,5 +17,8 @@
     "url": "https://github.com/ViktorFAlex/hexlet-js/issues",
     "email": "viktor.f.alex@gmail.com"
   },
-  "homepage": "https://github.com/ViktorFAlex/hexlet-js#readme"
+  "homepage": "https://github.com/ViktorFAlex/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
