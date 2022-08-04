@@ -1,3 +1,3 @@
 # hexlet-js
-My first project at Hexlet.io
 
+My first project at Hexlet.io
